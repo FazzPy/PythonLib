@@ -2,6 +2,10 @@
 
 Fazz | Tüm Python Kütüphanelerinin Rehberi
 
+>Siber Güvenlik
+
+[Requests](https://pages.github.com/) | [Scapy](https://pages.github.com/) | [IMpacket](https://pages.github.com/) | [Cryptography](https://pages.github.com/) | [Nmap](https://pages.github.com/) | [Socket](https://pages.github.com/)
+
 > Veri Hazırlama
 
 [Numpy](https://pages.github.com/) | [Pandas](https://pages.github.com/)<br>
@@ -37,7 +41,6 @@ Fazz | Tüm Python Kütüphanelerinin Rehberi
 >Oyun Geliştirme
 
 [PyGlet](https://pages.github.com/) | [Pygame](https://pages.github.com/)<br>
-
 
 **Geliştirme aşamasındadır.**<br>
 *Devamı Gelecektir*
