@@ -1,4 +1,4 @@
-# Fazz Python Rehberi
+# Fazz Python Kütüphane Rehberi
 
 Fazz | Tüm Python Kütüphanelerinin Rehberi
 
