@@ -4,7 +4,7 @@ Fazz | Tüm Python Kütüphanelerinin Rehberi
 
 >Siber Güvenlik
 
-[Requests](https://pages.github.com/) | [Scapy](https://pages.github.com/) | [IMpacket](https://pages.github.com/) | [Cryptography](https://pages.github.com/) | [Nmap](https://pages.github.com/) | [Socket](https://pages.github.com/)
+[Requests](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/requests.md) | [Scapy](https://pages.github.com/) | [IMpacket](https://pages.github.com/) | [Cryptography](https://pages.github.com/) | [Nmap](https://pages.github.com/) | [Socket](https://pages.github.com/)
 
 > Veri Hazırlama
 
