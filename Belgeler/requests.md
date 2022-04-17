@@ -179,6 +179,6 @@ r.elapsed.total_seconds()<br>
 >0.566292
 
 
-**Kaynak : **<br>
+Kaynak : <br>
 >https://medium.com/python/python-requests-mod%C3%BCl%C3%BC-4af79ebdb8c8<br>
 >http://www.sinanerdinc.com/python-requests-modulu
