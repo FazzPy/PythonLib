@@ -32,7 +32,7 @@ Fazz | Tüm Python Kütüphanelerinin Rehberi
 
 >Arayüz Geliştirme
 
-[Tkinter](https://pages.github.com/) | [PyQt5](https://pages.github.com/) | [WxPython](https://pages.github.com/)<br>
+[Tkinter](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/tkinter.md) | [PyQt5](https://pages.github.com/) | [WxPython](https://pages.github.com/)<br>
 
 >Veri Tabanı
 
