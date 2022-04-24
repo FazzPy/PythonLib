@@ -1,7 +1,8 @@
 # Requests Kütüphanesi
 
 >Kurulum
->Linux : sudo apt-get install python3-pip
+>Linux : sudo apt-get install python3-pip<br>
+>pip3 install requests<br>
 >Windows : pip3 install requests<br>
 
 **HTTP İSTEKLERİ**
