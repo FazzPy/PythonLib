@@ -1,4 +1,9 @@
-#Python Scapy Kütüphanesi
+**Python Scapy Kütüphanesi**
+
+>kurulum<br>
+>**Linux : sudo apt-get install scapy**<br>
+>**Windows : [Npcan indir](https://nmap.org/npcap/dist/npcap-0.97.exe) Bu yazılımı indirdiktan sonra [Github Dosyası](https://github.com/secdev/scapy/archive/master.zip) Bunu indirip içindeki setup.py dosyasını çalıştırıyoruz.<br>**
+>**Not : Kali Linux kullanan arkadaşlarda zaten indirilmiştir.**<br>
 
 >Scapy Nedir ?
 
