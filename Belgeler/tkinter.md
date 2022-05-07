@@ -153,6 +153,8 @@ def komut():<br>
 
 buton = Button(text="Selam ben buton", command=komut)<br>
 
+**Fazladan Command Atama**
+command=lambda:[komut1(), komut1()]<br>
 
 
 **İçeriklerimiz bu kadardı kendi notlarımdan yazdım son bonus olarak mail gönderme kodu yazmak istiyorum projelerinizde işe yarar**<br>
