@@ -10,5 +10,5 @@
 
 
 **Devamı gelecektir...**<br>
-*Kaynak : [Kerteniz](https://kerteriz.net/python-numpy-kullanimi-nedir-ve-nasil-kullanilir/)<br>
+[Kaynak](https://kerteriz.net/python-numpy-kullanimi-nedir-ve-nasil-kullanilir/)<br>
 
