@@ -9,4 +9,6 @@
 >**Linux : pip3 install numpy**<br>
 
 
+**Devamı gelecektir...**<br>
+*Kaynak : [Kerteniz](https://kerteriz.net/python-numpy-kullanimi-nedir-ve-nasil-kullanilir/)<br>
 
