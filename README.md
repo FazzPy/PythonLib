@@ -2,7 +2,7 @@
 
 Fazz | Tüm Python Kütüphanelerinin Rehberi
 
-[Python Basics](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/python.md)
+[Python](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/python.md)
 
 >Siber Güvenlik
 
