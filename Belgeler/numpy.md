@@ -190,3 +190,63 @@ print(newarr)  # ValueError: cannot reshape array of size 8 into shape (3,3)
 [Bilişim Hareketi](https://medium.com/bili%C5%9Fim-hareketi/veri-bilimi-i%CC%87%C3%A7in-temel-python-k%C3%BCt%C3%BCphaneleri-1-numpy-750429a0d8e5)<br>
 [Teknoloji.org](https://medium.com/bili%C5%9Fim-hareketi/veri-bilimi-i%CC%87%C3%A7in-temel-python-k%C3%BCt%C3%BCphaneleri-1-numpy-750429a0d8e5)<br>
 [Hakan Ceran](https://hakanceran.com.tr/numpy-hizli-baslangic-kilavuzu/)<br>
+
+ 
+```python
+#Son olarak kendi notlarımı buraya bırakıyorum.
+
+listem = [20,30,40]
+
+np.array(listem) #Listeyi dizi yapar
+
+matrixListesi = [[10,20,30],[40,50,60],[70,80,90]]
+
+np.array(matrixListesi) #Listeyi dizi yapar
+
+for i in range(20,50):
+    print(i) #20 ile 50 Arasında sayılar oluşturur
+
+dizi1 = np.arange(1,9) #1 ile 9 arasındaki sayıları oluşturur
+
+np.zeros(9,9) # 0'lardan 9,9 Stünlar oluşturur
+
+np.ones(5) # 1'lerden 5 adet dizi oluşturur 
+
+np.linspace(0,20,5) #0 ile 20 Arasında 5 adet eşit dağıtılmış rakam yapar
+
+np.eye(10) # 10 Adet çapraz 1 dizer
+
+np.random.randn(8) # Rastgele 8 adet rakam üretir
+
+np.random.randint(1,10) #1,10 a kadar rastgele bir adet sayı üretir
+
+np.random.randint(1,10,5) #1,10 a kadar rastgele 5 adet sayı üretir
+
+matrixListesi.reshape(6,5) # Diziyi Düzenler
+
+matrixListesi.max() #Maximum sayıyı getirir
+
+matrixListesi.min() # Minimum sayıyı getirir
+
+benimDizim = np.arange(0, 15)
+
+benimDizim[5] # Diziden 5. Elemanı alır. Listeler ile aynı çalışır.
+
+slicingDizisi = benimDizim[4:9] #Slicing dizisi benim dizimdeki 4 ile 9 arasındaki rakamları alır
+
+slicingDizisi[:] = 50 #slicingDizisindeki tüm rakamları 50 yapar
+
+KopyaDizisi = benimDizim.copy() #KopyaDizisi benimDizim ile aynı değerleri alır ve kopyalar 2. bir dizi oluşturur.
+
+liste1 = [[20,30,40],[10,30,50],[20,40,30]]
+
+matrixDizisi = np.array(liste1) #liste1 i Matrix Dizisi yapar
+
+yeniDizi = np.arange(0, 50)
+
+hesapla1 = yeniDizi > 23 #Yeni dizideki 23 ten büyük sayıları True diğerlerini False olarak gösterir
+
+yeniDizi[hesapla1] # Sadece True olan sayıları alır (23Ten büyük olan sayıları)
+```
+
+**Fazz iyi yazılımlar diler...**
