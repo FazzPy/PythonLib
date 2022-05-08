@@ -285,3 +285,5 @@ conn.close()  #Database ile bağlantımızı keser
 [İstihza](https://python-istihza.yazbel.com/standart_moduller/sqlite.html)<br>
 [info4idea](https://info4idea.com/python-notlarim-8-sqlite-kullanimi/)<br>
 [ichi.pro](https://ichi.pro/tr/sqlite-kullanarak-python-da-veritabanlari-ile-programlama-84579699727033)
+
+**Fazz iyi yazılımlar diler...**
