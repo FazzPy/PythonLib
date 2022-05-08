@@ -12,7 +12,7 @@ Fazz | Tüm Python Kütüphanelerinin Rehberi
 
 >Veri Görselleştirme
 
-[Matplotlib](https://pages.github.com/) | [Seaborn](https://pages.github.com/) | [Bokeh](https://pages.github.com/) | [Plotly](https://pages.github.com/)<br>
+[Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md) | [Seaborn](https://pages.github.com/) | [Bokeh](https://pages.github.com/) | [Plotly](https://pages.github.com/)<br>
 
 >Makine Öğrenmesi
 
