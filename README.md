@@ -2,6 +2,8 @@
 
 Fazz | Tüm Python Kütüphanelerinin Rehberi
 
+[Python Notları](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/python.md)
+
 >Siber Güvenlik
 
 [Requests](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/requests.md) | [Scapy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/scapy.md) | [IMpacket](https://pages.github.com/) | [Cryptography](https://pages.github.com/) | [Nmap](https://pages.github.com/) | [Socket](https://pages.github.com/)
