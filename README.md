@@ -8,7 +8,7 @@ Fazz | Tüm Python Kütüphanelerinin Rehberi
 
 > Veri Hazırlama
 
-[Numpy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/numpy.md) | [Pandas](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/pandas.md)<br>
+[Numpy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/numpy.md) | [Pandas](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/pandas.md) | [JSON](https://github.com/FazzPy/PythonMaster)<br>
 
 >Veri Görselleştirme
 
