@@ -36,7 +36,7 @@ Fazz | Tüm Python Kütüphanelerinin Rehberi
 
 >Veri Tabanı
 
-[Sqlite](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/sqlite.md) | [MongoDb]([https://pages.github.com/](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/mongodb.md))<br>
+[Sqlite](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/sqlite.md) | [MongoDb](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/mongodb.md)
 
 >Oyun Geliştirme
 
