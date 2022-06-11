@@ -3,7 +3,7 @@
 
 ```python
 
-class Security():
+class MongoDB():
 
   # https://cloud.mongodb.com/ Sitesinden mongodb ayarlanabilir
 
@@ -101,22 +101,6 @@ class Security():
     # Tekli silmek için aşağıdaki gibi de yapılabilir.
 
     collection.remove({"name":"Batın"})
-
-  '''
-  Güvenlik Notları :
-
-  Kırılması zor olan bir şifre ayarlandı.
-  Şifre saklanması için güvenilir bir password manager yazıldı.
-  Veritabanına erişim için izin verilen ip adresleri bulutta tutuluyor.
-  Veritabanı her işlemi log dosyasında kayıt altında tutacak.
-  Mongodb Bulut Güvenlik Eğitimi : https://www.youtube.com/watch?v=ySe5dowD6Uk
-  AWS Encryption Açılacaktır. | https://docs.aws.amazon.com/kms/latest/developerguide/create-keys.html
-  JSON ile veriler şifrelenecek.
-  Web Sitesi yaparken TLS Encryption yapmalıyız.
-  MongoDB Configfile SSL Ayarları yapılacak ve SSL olmadan iletişim olmayacak.
-  Log dosyalarını şifreleme : KMIP ve KeyFile | ileride yapılacak
-
-  '''
 
 
 ```
