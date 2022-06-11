@@ -1,6 +1,8 @@
 # Python | Veri Tabanı
 ## MongoDB
 
+[MongoDB Sitesine kayıt olup veritabanı açma eğitimi](https://www.youtube.com/watch?v=bf1ptBeRySo)
+
 ```python
 
 class MongoDB():
