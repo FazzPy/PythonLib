@@ -1,6 +1,6 @@
 # Fazz Python Kütüphane Rehberi
 
-Fazz | Tüm Python Kütüphanelerinin Rehberi
+Fazz | Kendi Kütüphane Notlarım
 
 >Siber Güvenlik
 
