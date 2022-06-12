@@ -4,6 +4,8 @@
 
 *Basit arayüzler oluşturmayı sağlıyan bir python kütüphanesidir.*<br>
 
+**Daha fazlası için : https://www.pythontutorial.net/tkinter/tkinter-ttk/**
+
 >Kurulum <br>
 
 **Linux : sudo apt-get install python3-pip**<br>
