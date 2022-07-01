@@ -3,6 +3,11 @@
 > Not : Bu bir anlatım veya kaynak değildir. Kendi çalışma notlarımdır.<br>
 > **Aşağıya daha iyi öğrenebileceğiniz kaynaklar bıraktım.**
 
+[Geckodriver](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/geckodriver.exe)<br>
+[Chromedriver](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/chromedriver.exe)<br>
+
+*Chrome driveri kendi sürümünüze göre indirebilirsiniz.*
+
 ```python
 
 # Giriş
