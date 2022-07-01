@@ -45,3 +45,10 @@ for x in Liste:
     """)
 
 ```
+
+**Kaynaklar :**<br>
+*https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877*<br>
+*https://beautiful-soup-4.readthedocs.io/en/latest/*<br>
+*https://realpython.com/beautiful-soup-web-scraper-python/*<br>
+*https://yasar11732.github.io/python/beautiful-soup-ve-basitce-kullanimi.html*
+
