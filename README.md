@@ -28,7 +28,7 @@ Fazz | Kendi Kütüphane Notlarım
 
 >Veri Kazıma
 
-[Beatiful Soup](https://pages.github.com/) | [Selenium](https://pages.github.com/)<br>
+[Beatiful Soup](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/BeatifulSoup.md) | [Selenium](https://pages.github.com/)<br>
 
 >Arayüz Geliştirme
 
