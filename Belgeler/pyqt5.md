@@ -3,7 +3,7 @@
 ## Made By Fazz
 
 > Burdaki kodlar benim notlarımdır.<br>
-> **Daha fazla öğrenmeniz için en alta kaynaklar bıraktım.**
+> **Daha fazla öğrenmeniz için en alta kaynaklar, indirme linkleri ve eğitimler bıraktım.**
 
 
 **Pencere Oluşturma :**
@@ -86,3 +86,15 @@ def Window():
 Window()
 
 ```
+
+Not : Üstteki kodları icon.png adlı dosya olmadan veya icon kodunu silmeden çalıştıramazsınız.
+
+Kaynaklar :
+
+BTKAkademi : https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877
+Qt Designer  : build-system.fman.io/qt-designer-download
+Tutorialspoint : https://www.tutorialspoint.com/pyqt5/index.htm
+PyQt6 Tutorial : https://www.pythonguis.com/pyqt6-tutorial/
+Jie Jenn : https://www.youtube.com/watch?v=tlhFIAymKnQ&list=PL3JVwFmb_BnRpvOeIh_To4YSiebiggyXS
+PyQt6 Parwiz : https://www.youtube.com/watch?v=ot94H3-d5d8
+
