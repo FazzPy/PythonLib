@@ -32,7 +32,7 @@ Fazz | Kendi Kütüphane Notlarım
 
 >Arayüz Geliştirme
 
-[Tkinter](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/tkinter.md) | [PyQt5](https://pages.github.com/) | [WxPython](https://pages.github.com/)<br>
+[Tkinter](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/tkinter.md) | [PyQt5](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/pyqt5.md) <br>
 
 >Veri Tabanı
 
