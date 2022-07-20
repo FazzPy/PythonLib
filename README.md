@@ -4,7 +4,7 @@ Fazz | Kendi Kütüphane Notlarım
 
 >Siber Güvenlik
 
-[Requests](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/requests.md) | [Scapy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/scapy.md) | [IMpacket](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/impacket.md) | [Cryptography](https://pages.github.com/) | [Nmap](https://pages.github.com/) | [Socket](https://pages.github.com/)
+[Requests](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/requests.md) | [Scapy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/scapy.md) | [IMpacket](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/impacket.md) | [Cryptography](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/cryptography.md) | [Nmap](https://pages.github.com/) | [Socket](https://pages.github.com/)
 
 > Veri Hazırlama
 
