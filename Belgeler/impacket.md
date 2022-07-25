@@ -21,7 +21,7 @@
 * TDS (MSSQL) ve LDAP protokol uygulamalarının tüm bölümleri
 
 
-<img height="400" align="left" alt="download" src="Belgeler/lYzUkV.png" /><br><br><br><br><br><br><br>
+<img height="400" align="left" alt="download" src="./lYzUkV.png" /><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br>
 **"Impacket" Nasıl Yüklenir?**
 
@@ -54,7 +54,7 @@ pip3 install tox​
 Bu işlemi tamamladığınızda Toksin komutunu çalıştırarak sonuçlar alabilirsiniz. Eğer sorun yaşamazsanız tüm test durumlarını aşmış olduğunuzu gösterir. Ayrıca HTML raporunuzu da şu diziden alabilirsiniz;
 impacket/tests/htlmcov/index.html​
 
-<img height="400" align="left" alt="download" src="Belgeler/cx0RpI.png" /><br><br><br><br><br><br><br>
+<img height="400" align="left" alt="download" src="./cx0RpI.png" /><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br>
 
 Eğer Docker'da bir imaj oluşturmak isterseniz;
