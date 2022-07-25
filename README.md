@@ -1,4 +1,4 @@
-# Fazz Python Kütüphane Rehberi
+# Fazz Python Kütüphane Notları
 
 Fazz | Kendi Kütüphane Notlarım
 
