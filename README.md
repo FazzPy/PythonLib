@@ -68,7 +68,7 @@ Fazz | Kendi Kütüphane Notlarım
 
 > Kategorisiz
 
-[Nose](https://pages.github.com/) | [Threading](https://pages.github.com/) | [Fabric](https://pages.github.com/) | [NLTK](https://pages.github.com/) | [Fire](https://pages.github.com/) | [FlashText](https://pages.github.com/) | [Cirq](https://pages.github.com/) | [ColabCode](https://pages.github.com/) | [PyPDF](https://pages.github.com/) | [Poetry](https://pages.github.com/) | [Pytil](https://pages.github.com/) | [TextBlob](https://pages.github.com/) | [CuPy](https://pages.github.com/) | [RDFLib](https://pages.github.com/) | [PyNLPl](https://pages.github.com/) | [Vocabulary](https://pages.github.com/) | [spaCy](https://pages.github.com/)
+[Nose](https://pages.github.com/) | [Threading](https://pages.github.com/) | [Fabric](https://pages.github.com/) | [NLTK](https://pages.github.com/) | [FlashText](https://pages.github.com/) | [Cirq](https://pages.github.com/) | [ColabCode](https://pages.github.com/) | [PyPDF](https://pages.github.com/) | [Poetry](https://pages.github.com/) | [Pytil](https://pages.github.com/) | [TextBlob](https://pages.github.com/) | [CuPy](https://pages.github.com/) | [RDFLib](https://pages.github.com/) | [PyNLPl](https://pages.github.com/) | [Vocabulary](https://pages.github.com/) | [spaCy](https://pages.github.com/)
 
 
 **Geliştirme aşamasındadır.**<br>
