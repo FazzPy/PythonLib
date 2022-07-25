@@ -15,7 +15,7 @@ crypto = rsa.encrypt(mesaj, PublicKey) # Mesajı şifreliyoruz
 
 print(crypto)
 
-message = rsa.decrypt(crypto, PrivateKey)
+message = rsa.decrypt(crypto, PrivateKey) # Şifreyi çözüyoruz
 
 print(message.decode("utf-8"))
 
