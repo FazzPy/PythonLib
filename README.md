@@ -6,15 +6,15 @@
 
 > Data Science
 
-[Numpy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/numpy.md) | [Pandas](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/pandas.md) | [JSON](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/json.md) | [SciPy](https://pages.github.com/) | [Voila](https://pages.github.com/) | [StatsModels](https://pages.github.com/) | [CuPy](https://pages.github.com/)<br>
+[Numpy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/numpy.md) | [Pandas](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/pandas.md) | [JSON](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/json.md) | [SciPy](https://pages.github.com/)
 
-> Data Imagening
+> Data Imagening & Imagening
 
-[Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md) | [Seaborn](https://pages.github.com/) | [Bokeh](https://pages.github.com/) | [Plotly](https://pages.github.com/) | [OpenCV](https://pages.github.com/) | [Pillow](https://pages.github.com/) <br>
+[Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md) | [Seaborn](https://pages.github.com/) | [Plotly](https://pages.github.com/) | [OpenCV](https://pages.github.com/) | [Pillow](https://pages.github.com/) <br>
 
 > Machine Learning
 
-[Scikit Learn](https://pages.github.com/) | [Keras](https://pages.github.com/) | [LightGBM](https://pages.github.com/) | [Eli5](https://pages.github.com/) |  [Theano](https://pages.github.com/) | [Explainerdashboard](https://pages.github.com/) | [Gensim](https://pages.github.com/) | [Spark MLlib ](https://pages.github.com/) | [PyBrain](https://pages.github.com/) | [XGBoost](https://pages.github.com/)<br>
+[Scikit Learn](https://pages.github.com/) | [PyBrain](https://pages.github.com/) | [Gensim](https://pages.github.com/)<br>
 
 > Deep Learning
 
@@ -22,11 +22,11 @@
 
 > Web Development
 
-[Django](https://pages.github.com/) | [Flask](https://pages.github.com/) | [Brython](https://pages.github.com/) | [Pywebio](https://pages.github.com/) | [Bottle](https://pages.github.com/) | [CherryPy](https://pages.github.com/)<br>
+[Django](https://pages.github.com/) | [Flask](https://pages.github.com/) | [Pywebio](https://pages.github.com/) | [CherryPy](https://pages.github.com/)<br>
 
 > Scraping & Automation
 
-[Beatiful Soup](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/BeatifulSoup.md) | [Scrapy](https://pages.github.com/) | [Selenium](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/Selenium.md) | [PyAutoGui](https://pages.github.com/) | [Lettuce](https://pages.github.com/)<br>
+[Beatiful Soup](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/BeatifulSoup.md) | [Scrapy](https://pages.github.com/) | [Selenium](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/Selenium.md) | [PyAutoGui](https://pages.github.com/)
 
 > GUI
 
