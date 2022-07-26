@@ -6,23 +6,19 @@
 
 > Data Science
 
-[Numpy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/numpy.md) | [Pandas](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/pandas.md) | [JSON](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/json.md) | [SciPy](https://pages.github.com/)
+[Numpy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/numpy.md) | [Pandas](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/pandas.md) | [JSON](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/json.md)
 
 > Data Imagening & Imagening
 
-[Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md) | [Seaborn](https://pages.github.com/) | [Plotly](https://pages.github.com/) | [OpenCV](https://pages.github.com/) | [Pillow](https://pages.github.com/) <br>
+[Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md) | [OpenCV](https://pages.github.com/) | [Pillow](https://pages.github.com/) <br>
 
-> Machine Learning
+> Artificial intelligence
 
-[Scikit Learn](https://pages.github.com/) | [PyBrain](https://pages.github.com/) | [Gensim](https://pages.github.com/)<br>
-
-> Deep Learning
-
-[Tensorflow](https://pages.github.com/) | [Keras](https://pages.github.com/) | [Pytorch](https://pages.github.com/)<br>
+[Scikit Learn](https://pages.github.com/) | [Tensorflow](https://pages.github.com/) | [Keras](https://pages.github.com/)<br>
 
 > Web Development
 
-[Django](https://pages.github.com/) | [Flask](https://pages.github.com/) | [Pywebio](https://pages.github.com/) | [CherryPy](https://pages.github.com/)<br>
+[Django](https://pages.github.com/) | [Flask](https://pages.github.com/) | [CherryPy](https://pages.github.com/)<br>
 
 > Scraping & Automation
 
@@ -30,11 +26,11 @@
 
 > GUI
 
-[Tkinter](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/tkinter.md) | [PyQt5](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/pyqt5.md) | [WxPython](https://pages.github.com/)<br>
+[Tkinter](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/tkinter.md) | [PyQt5](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/pyqt5.md)<br>
 
 > Database
 
-[Sqlite](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/sqlite.md) | [MongoDb](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/mongodb.md) | [MySQL](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/mysql.md) | [SQLAlchemy](https://pages.github.com/) | [MsSql](https://pages.github.com/)<br>
+[Sqlite](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/sqlite.md) | [MongoDb](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/mongodb.md) | [MySQL](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/mysql.md)<br>
 
 > Game Development
 
@@ -44,6 +40,10 @@
 
 [Kivy](https://pages.github.com/) | [Pyramid](https://pages.github.com/) | [BeeWare](https://pages.github.com/)
 
-> Science & Test
+> Quantum & Math
 
-[QuTip](https://pages.github.com/) | [Cirq](https://pages.github.com/) | [All Chemistry](https://pythonrepo.com/tag/chemistry_newest_1#) | [Nose](https://pages.github.com/) | [PyTest](https://pages.github.com/) | [deLorean](https://pages.github.com/)
+[QuTip](https://pages.github.com/) | [Cirq](https://pages.github.com/) | [SymPy](https://pages.github.com/) | [MpMath](https://pages.github.com/)
+
+> Science
+
+[PennyLane](https://pages.github.com/) | [GebPy](https://pages.github.com/) | [PyTorch](https://pages.github.com/)
