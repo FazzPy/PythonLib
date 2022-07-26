@@ -46,8 +46,4 @@
 
 > Science & Test
 
-[QuTip](https://pages.github.com/) | [Cirq](https://pages.github.com/) | [All Chemistry](https://pythonrepo.com/tag/chemistry_newest_1#) | [Nose](https://pages.github.com/) | [PyTest](https://pages.github.com/)
-
-> Other
-
-[SpeechRecognition](https://pages.github.com/) | [VLC](https://pages.github.com/) | [Playsound](https://pages.github.com/) | [deLorean](https://pages.github.com/) | [Datetime](https://pages.github.com/) | [Arrow](https://pages.github.com/) | [Time](https://pages.github.com/)
+[QuTip](https://pages.github.com/) | [Cirq](https://pages.github.com/) | [All Chemistry](https://pythonrepo.com/tag/chemistry_newest_1#) | [Nose](https://pages.github.com/) | [PyTest](https://pages.github.com/) | [deLorean](https://pages.github.com/)
