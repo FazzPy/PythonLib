@@ -8,21 +8,17 @@
 
 [Numpy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/numpy.md) | [Pandas](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/pandas.md) | [JSON](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/json.md)
 
-> Data Imagening & Imagening
-
-[Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md) | [OpenCV](https://pages.github.com/) | [Pillow](https://pages.github.com/) <br>
-
-> Artificial intelligence
-
-[Scikit Learn](https://pages.github.com/) | [Tensorflow](https://pages.github.com/) | [Keras](https://pages.github.com/)<br>
-
 > Web Development
 
 [Django](https://pages.github.com/) | [Flask](https://pages.github.com/) | [CherryPy](https://pages.github.com/)<br>
 
 > Scraping & Automation
 
-[Beatiful Soup](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/BeatifulSoup.md) | [Scrapy](https://pages.github.com/) | [Selenium](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/Selenium.md)
+[Beatiful Soup](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/BeatifulSoup.md) |  [Selenium](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/Selenium.md) | [Scrapy](https://pages.github.com/)
+
+> Artificial intelligence & Imagening
+
+[Scikit Learn](https://pages.github.com/) | [Tensorflow](https://pages.github.com/) | [Keras](https://pages.github.com/) | [Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md) | [OpenCV](https://pages.github.com/) | [Pillow](https://pages.github.com/) <br>
 
 > GUI
 
