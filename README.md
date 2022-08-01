@@ -22,7 +22,7 @@
 
 > Scraping & Automation
 
-[Beatiful Soup](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/BeatifulSoup.md) | [Scrapy](https://pages.github.com/) | [Selenium](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/Selenium.md) | [PyAutoGui](https://pages.github.com/)
+[Beatiful Soup](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/BeatifulSoup.md) | [Scrapy](https://pages.github.com/) | [Selenium](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/Selenium.md)
 
 > GUI
 
@@ -31,19 +31,3 @@
 > Database
 
 [Sqlite](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/sqlite.md) | [MongoDb](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/mongodb.md) | [MySQL](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/mysql.md)<br>
-
-> Game Development
-
-[PyGlet](https://pages.github.com/) | [Pygame](https://pages.github.com/) | [Panda3D](https://pages.github.com/)<br>
-
-> Mobile Development
-
-[Kivy](https://pages.github.com/) | [Pyramid](https://pages.github.com/) | [BeeWare](https://pages.github.com/)
-
-> Quantum & Math
-
-[QuTip](https://pages.github.com/) | [Cirq](https://pages.github.com/) | [SymPy](https://pages.github.com/) | [MpMath](https://pages.github.com/)
-
-> Science
-
-[PennyLane](https://pages.github.com/) | [GebPy](https://pages.github.com/) | [PyTorch](https://pages.github.com/)
