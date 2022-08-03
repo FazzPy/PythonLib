@@ -2,7 +2,7 @@
 
 > Cyber Security
 
-**[Socket](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/socket.md) | [Subprocess](https://github.com/FazzPy/) | [Scapy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/scapy.md) | [IMpacket](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/impacket.md) | [Cryptography](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/cryptography.md) | [Nmap](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/nmap.md) | [RSA](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/rsa.md) | [Faker](https://github.com/FazzPy/PythonLib/blob/main/Belgeler/faker.md)**
+**[Socket](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/socket.md) | [Subprocess](https://github.com/FazzPy/PythonLib/blob/main/Belgeler/subprocess.md) | [Scapy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/scapy.md) | [IMpacket](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/impacket.md) | [Cryptography](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/cryptography.md) | [Nmap](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/nmap.md) | [RSA](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/rsa.md) | [Faker](https://github.com/FazzPy/PythonLib/blob/main/Belgeler/faker.md)**
 
 > Data Science
 
@@ -18,7 +18,7 @@
 
 > Artificial intelligence & Imagening
 
-[Scikit Learn](https://pages.github.com/) | [Tensorflow](https://pages.github.com/) | [Keras](https://pages.github.com/) | **[Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md)** | [OpenCV](https://pages.github.com/) | [Pillow](https://pages.github.com/) <br>
+[Scikit Learn](https://pages.github.com/) | [Tensorflow](https://pages.github.com/) | [Keras](https://pages.github.com/) | [Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md) | [OpenCV](https://pages.github.com/) | [Pillow](https://pages.github.com/) <br>
 
 > GUI
 
