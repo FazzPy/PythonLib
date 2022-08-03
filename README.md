@@ -2,7 +2,7 @@
 
 > Cyber Security
 
-[Requests](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/requests.md) | [Scapy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/scapy.md) | [IMpacket](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/impacket.md) | [Cryptography](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/cryptography.md) | [Nmap](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/nmap.md) | [Socket](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/socket.md) | [RSA](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/rsa.md) | [Faker](https://pages.github.com/) | [Subprocess](https://pages.github.com/) 
+[Requests](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/requests.md) | [Scapy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/scapy.md) | [IMpacket](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/impacket.md) | [Cryptography](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/cryptography.md) | [Nmap](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/nmap.md) | [Socket](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/socket.md) | [RSA](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/rsa.md) | [Faker](https://pages.github.com/) | [Subprocess](https://github.com/FazzPy/PythonLib/blob/main/Belgeler/faker.md) 
 
 > Data Science
 
