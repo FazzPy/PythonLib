@@ -179,6 +179,15 @@ r.elapsed.total_seconds()<br>
 
 >0.566292
 
+**Dosya indirmek**
+
+url = "https://www.drodd.com/images11/meme-faces8.png"
+
+r = requests.get(url, allow_redirects=True)
+
+open("image.png", "wb").write(r.content)
+
+
 
 Kaynak : <br>
 >https://medium.com/python/python-requests-mod%C3%BCl%C3%BC-4af79ebdb8c8<br>
