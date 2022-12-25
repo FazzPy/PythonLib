@@ -8,6 +8,394 @@
 >**Windows : pip install numpy**<br>
 >**Linux : pip3 install numpy**<br>
 
+<h3> Numpy Notlarım - V1 </h3>
+
+```python
+# Python | Yapay Zeka Notları
+
+import numpy as np
+
+# Dizi1 = Bir boyutlu dizidir ve veriler int'e dönüştürülmüştür. 
+
+Dizi1 = np.array([1,2,3,4,5], dtype=int)
+
+print(f"Tek boyutlu Dizi 1 : {Dizi1}")
+
+print("\n")
+
+# Dizi2 = İki boyutlu dizidir iki adet farklı liste ile oluşturulur.
+
+Dizi2 = np.array([[1,2,3,4,5], [1,2,3,4,5]])
+
+print(f"İki boyutlu Dizi 2 : {Dizi2}")
+
+print("\n")
+
+# Dizi3 = Üç boyutlu dizidir dört farklı liste ile oluşturulur.
+
+Dizi3 = np.array([[1,2,3], [4,5,6], [1,2,3], [4,5,6]])
+
+print(f"Üç boyutlu Dizi 3 : {Dizi3}")
+
+print("\n")
+
+# Zeros komutu ile sıfırlardan oluşan bir yer tutucu dizin oluşturuyoruz
+
+np.zeros(5)
+
+Dizi4 = np.zeros((4,3), dtype=int)
+
+print(f"Sıfırlardan oluşan int Dizi 4 : {Dizi4}")
+
+print("\n")
+
+Dizi5 = np.ones((4,3), dtype=int)
+
+print(f"Birlerden oluşan int Dizi 5 : {Dizi5}")
+
+print("\n")
+
+Dizi6 = np.full((4,3),10)
+
+print(f"Belirlediğimiz sayılardan oluşan Dizi 6 : {Dizi6}")
+
+print("\n")
+
+# Dizi 7 = bitiş ve artış değerlerinden oluşan dizi oluşturur.
+
+Dizi7 = np.arange(1,30,2)
+
+print(f"Bitiş ve artış değerlerinden oluşan Dizi 7 : {Dizi7}")
+
+print("\n")
+
+# Dizi 8 = Eşit aralıklı sayılardan oluşan diziyi oluşturur.
+
+Dizi8 = np.linspace(0, 10, num=5)
+
+print(f"Eşit aralıklı Dizi 8 : {Dizi8}")
+
+print("\n")
+
+# Dizi 9 ve 10 rastgele sayılardan oluşan dizileri oluşturur.
+
+Dizi9 = np.random.randint(0,10,5)
+
+Dizi10 = np.random.randint(0,10,(4,3))
+
+print(f"Rastgele sayılardan oluşan Dizi 9 : {Dizi9}")
+
+print("\n")
+
+print(f"Rastgele sayılardan oluşan 3 Boyutlu Dizi 10 : {Dizi10}")
+
+print("\n")
+
+# Numpy dizi incelemesi : shape, ndrim, size, dtype ve itemsize komutları ile olur.
+
+Dizi11 = np.array([[1,2,3], [4,5,6]])
+
+Shape = Dizi11.shape
+
+Dizi12 = np.array([1,2,3,4,5])
+
+Ndim = Dizi12.ndim
+
+Dizi13 = np.array([[1,2,3,4], [5,6,7,8]])
+
+Ndim2 = Dizi13.ndim
+
+Size = Dizi12.size
+
+dtype = Dizi12.dtype
+
+itemsize = Dizi12.itemsize
+
+print(f"""
+
+Numpy dizi incelemesi
+
+Shape : {Shape}
+
+Ndim : {Ndim}
+
+Ndim2 : {Ndim2}
+
+Size : {Size}
+
+Dtype : {dtype}
+
+İtemsize : {itemsize}
+
+""")
+
+print("\n")
+
+# Numpy indexleme
+
+Dizi14 = np.array([1,2,3,4])
+
+print("Numpy İndexleme")
+
+print(f"0. İndex : {Dizi14[0]}")
+
+print(f"1. İndex : {Dizi14[1]}")
+
+v1 = Dizi14[2]=99
+
+print(f"2. Değiştirilmiş İndex : {Dizi14[2]}")
+
+print("\n")
+
+Dizi15 = np.array([[1,2,3,4,5], [6,7,8,9,10], [11,12,13,14,15]])
+
+Dizi15[1,2]=99
+
+print(f"""
+
+Dizi 15 İndexleme
+
+İndex 1 : {Dizi15[2][1]}
+
+İndex 2 : {Dizi15[2,1]}
+
+İndex 3 : {Dizi15[1,2]}
+
+""")
+
+Dizi16 = np.array([[[1,2,3], [4,5,6]], [[7,8,9], [10,11,12]]])
+
+Dizi16[1,1,1]=99
+
+print(f"""
+
+3 Boyutlu indexleme
+
+İndex 1 = {Dizi16[0, 1, 2]}
+
+İndex 2 = {Dizi16[1,1,1]}
+
+Negatif indexleme
+
+İndex 1 = {Dizi16[-1, -2, -3]}
+
+""")
+
+print("\n")
+
+# Dilimleme ile verileri çekmek
+
+Dizi17 = np.arange(10, 30)
+
+print("Dizi17 Sonuç : "+Dizi17[0:4])
+
+print("\n")
+
+Dizi18=np.random.randint(0,10,(4,4))
+
+# İkinci satırın tüm sütunlarını seçer
+
+print(Dizi18[1,:])
+
+# ilk iki satırı ile ilk üç sütununu çekme işlemi
+
+print(Dizi18[0:2,0:3])
+
+# ilk iki sütununu çeker
+
+print(Dizi18[:,0:2])
+
+# 4 sayısından büyük değere sahip olanları çeker
+
+print(Dizi18[Dizi18>4])
+
+print("\n")
+
+# NumPy Yeniden boyutlandırma
+
+Dizi19 = np.arange(1,10)
+
+print(Dizi19.ndim)
+
+yeniDizi = Dizi19.reshape(3, 3)
+
+print(f"Yeniden boyutlandırılmış dizi : {yeniDizi}")
+
+yeniDizi2 = Dizi19.reshape(3,3,1)
+
+print(f"Yeniden boyutlandırılmış 3D Dizi : {yeniDizi2}")
+
+yeniDizi2.reshape(-1)
+
+print(f"Yeniden boyutlandırılmış 3D to 2D Dizi : {yeniDizi2}")
+
+print("\n")
+
+# NumPy Dizileri birleştirme, ayrıştırma ve sıralama
+
+# Dizi20,21 = 2 adet diziyi birleştirerek 1 boyutlu dizi oluşturur.
+
+Dizi20=np.array([1,2,3])
+Dizi21=np.array([4,5,6])
+Birlestirilmis=np.concatenate([Dizi20,Dizi21])
+
+print(f"Birleştirilmiş Dizi 20, 21 : {Birlestirilmis}")
+
+Dizi22=np.array([[1,2,3],[4,5,6]])
+Dizi23=np.array([[7,8,9],[10,11,12]])
+Birlestirilmis2=np.concatenate([Dizi22,Dizi23])
+
+print(f"Birleştirilmiş 2. Dizi 22,23 : {Birlestirilmis2}")
+
+print("\n")
+
+# Ayrıştırma
+
+# Dizi24 = Split komutu ile diziyi 3 parçaya ayırır.
+
+Dizi24 = np.array([11,12,13,14,15,16,17,18,19])
+
+np.split(Dizi24, 3)
+
+print(f"3 Parçaya ayrılmış Dizi 24 : {Dizi24}")
+
+# Dizi 25 = indeks numaraları kullanarak belli aralıkta ayrıştırır ve farklı değişkenlere kaydeder.
+
+Dizi25 = np.array([11,12,13,14,15,16,17,18,19])
+
+Ayristirma1, Ayristirma2, Ayristirma3 = np.split(Dizi25,[2,6])
+
+print(f"""
+
+Ayrıştırılmış 1. Değişken : {Ayristirma1}
+
+Ayrıştırılmış 2. Değişken : {Ayristirma2}
+
+Ayrıştırılmış 3. Değişken : {Ayristirma3}
+
+""")
+
+print("\n")
+
+# iki boyutlu diziyi reshape ile ayrıştırma
+
+Dizi26 = np.arange(16).reshape(4,4)
+
+print(f"Reshape ile ayırma Dizi 26 : {Dizi26}")
+
+# VSplit ile ayrıştırılan 2 boyutlu diziyi satır bazında alt dizilere aktarır
+
+Ayrı1, Ayrı2 = np.vsplit(Dizi26, 2)
+
+print(f"""
+
+Ayrıştırılmış 2 Boyutlu 1. : {Ayrı1}
+
+Ayrıştırılmış 2 Boyutlu 2. : {Ayrı2}
+
+""")
+
+# HSplit ile iki boyutlu diziyi sütun bazında alt dizilere aktarır
+
+Ayrı3, Ayrı4 = np.hsplit(Dizi26, 2)
+
+print(f"""
+
+Ayrıştırılmış 2 Boyutlu 3. : {Ayrı3}
+
+Ayrıştırılmış 2 Boyutlu 4. : {Ayrı4}
+
+""")
+
+print("\n")
+
+# Mantıksal operatörler ile işlemler
+
+Dizi27 = np.array([10,20,30])
+
+Dizi28 = np.array([1,2,3])
+
+# Add fonksiyonu ile toplama işlemi yapıyoruz
+
+np.add(Dizi27,5)
+np.add(Dizi27,Dizi28)
+
+# Subtract fonksiyonu ile çıkartma işlemi yapıyoruz
+
+np.subtract(Dizi27,5)
+np.subtract(Dizi27,Dizi28)
+
+# Multiply fonksiyonu ile çıkartma işlemi yapıyoruz
+
+np.multiply(Dizi27,5)
+np.multiply(Dizi27,Dizi28)
+
+# Power fonksiyonu ile çıkartma işlemi yapıyoruz
+
+np.power(Dizi27,2)
+np.power(Dizi27,Dizi28)
+
+# Trigonometri fonksiyonları ile işlem yapma
+
+Dizi29 = np.array([0,30,60,90,120,150,180])
+
+# Sinüs değerini bulmak
+
+sinüs = np.sin(Dizi29*np.pi/180)
+
+# kosinüs değerlerini bulmak
+
+kosinüs = np.cos(Dizi29*np.pi/180)
+
+# tanjant değerlerini bulmak 
+
+tanjant = np.tan(Dizi29*np.pi/180)
+
+print(f"""
+
+Trigonometri fonksiyonları ile işlem yapmak
+
+Sinüs : {sinüs}
+
+Kosinüs : {kosinüs}
+
+tanjant : {tanjant}
+
+""")
+
+print("\n")
+
+# istatiksel fonksiyonlar ile işlemler
+
+# Dizi 30 = 0 ile 100 arasında rastgele sayılardan oluşan 10x3 bir dizidir.
+
+# Not : Fonksiyonların içine axis verirseniz eksenleri ile işlem yaparsınız
+
+Dizi30 = np.random.randint(0,101,([10,3]))
+
+Büyük = Dizi30.max()
+
+Küçük = Dizi30.min()
+
+# Dizinin tamamının toplamını verir (sum fonksiyonu)
+
+Toplam = Dizi30.sum()
+
+# mean fonksiyonu ile dizinin ortalamasını alır.
+
+Ortalama = Dizi30.mean()
+
+# Ortalamaya göre değişiklik gösteren varyansını bulmak (var fonksiyonu)
+
+Varyans = Dizi30.var()
+
+# Dizinin ortalamaya göre ne kadar saptığını gösteren standart sapmasını bulmak (std fonksiyonu)
+
+Sapma = Dizi30.std()
+```
+
+ <h3>Eski notlarım - v2</h3>
+
 ```python
 import numpy as np #Numpy'ı içeri aktardık
 
@@ -184,13 +572,12 @@ newarr = arr.reshape(3, 3)
 print(newarr)  # ValueError: cannot reshape array of size 8 into shape (3,3)
 ```
 
-**Numpy Rehberimiz bu kadardı dostlar daha faza kaynak ve bilgi için aşağıdaki kaynaklara göz atabilirsiniz...**<br>
+**Daha fazla kaynak ve bilgi için aşağıdaki kaynaklara göz atabilirsiniz...**<br>
 
 [Kerteriz Numpy](https://kerteriz.net/python-numpy-kullanimi-nedir-ve-nasil-kullanilir/)<br>
 [Bilişim Hareketi](https://medium.com/bili%C5%9Fim-hareketi/veri-bilimi-i%CC%87%C3%A7in-temel-python-k%C3%BCt%C3%BCphaneleri-1-numpy-750429a0d8e5)<br>
 [Teknoloji.org](https://medium.com/bili%C5%9Fim-hareketi/veri-bilimi-i%CC%87%C3%A7in-temel-python-k%C3%BCt%C3%BCphaneleri-1-numpy-750429a0d8e5)<br>
 [Hakan Ceran](https://hakanceran.com.tr/numpy-hizli-baslangic-kilavuzu/)<br>
-
  
 ```python
 #Son olarak kendi notlarımı buraya bırakıyorum.
