@@ -18,7 +18,7 @@
 
 > Artificial intelligence & Imagening
 
-[Scikit Learn](https://pages.github.com/) | [Tensorflow](https://pages.github.com/) | [Keras](https://pages.github.com/) | [Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md) | [OpenCV](https://pages.github.com/) | [Pillow](https://pages.github.com/) <br>
+[Scikit Learn](https://pages.github.com/) | [Tensorflow](https://pages.github.com/) | [Keras](https://pages.github.com/) | **[Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md)** | [OpenCV](https://pages.github.com/) | [Pillow](https://pages.github.com/) <br>
 
 > GUI
 
