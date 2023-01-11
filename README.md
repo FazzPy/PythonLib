@@ -6,19 +6,15 @@
 
 > Data Science
 
-**[Numpy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/numpy.md) | [Pandas](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/pandas.md) | [JSON](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/json.md)**
+**[Numpy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/numpy.md) | [Pandas](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/pandas.md) | [JSON](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/json.md)** | [SciPy](https://pages.github.com/)
 
-> Web Development
+> Artificial intelligence
 
-[Django](https://pages.github.com/) | [Flask](https://pages.github.com/) | [CherryPy](https://pages.github.com/)<br>
+[Scikit Learn](https://pages.github.com/) | [Tensorflow](https://pages.github.com/) | [Keras](https://pages.github.com/) | **[Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md)** | [Seaborn](https://pages.github.com/) | [OpenCV](https://pages.github.com/) | [Pillow](https://pages.github.com/) <br>
 
 > Scraping & Automation
 
-**[Beatiful Soup](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/BeatifulSoup.md) |  [Selenium](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/Selenium.md) | [Requests](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/requests.md)** | [Scrapy](https://pages.github.com/) 
-
-> Artificial intelligence & Imagening
-
-[Scikit Learn](https://pages.github.com/) | [Tensorflow](https://pages.github.com/) | [Keras](https://pages.github.com/) | **[Matplotlib](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/matplotlib.md)** | [OpenCV](https://pages.github.com/) | [Pillow](https://pages.github.com/) <br>
+**[Beatiful Soup](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/BeatifulSoup.md) |  [Selenium](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/Selenium.md) | [Requests](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/requests.md)**
 
 > GUI
 
@@ -27,3 +23,7 @@
 > Database
 
 **[Sqlite](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/sqlite.md) | [MongoDb](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/mongodb.md) | [MySQL](https://github.com/FazzPy/FazzPython/blob/main/Belgeler/mysql.md)**<br>
+
+> Web Development
+
+[Django](https://pages.github.com/) | [Flask](https://pages.github.com/) | [CherryPy](https://pages.github.com/)<br>
