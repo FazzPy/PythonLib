@@ -6,7 +6,7 @@
 
 > Data Science
 
-**[Numpy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/numpy.md) | [Pandas](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/pandas.md) | [JSON](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/json.md)** | [SciPy](https://pages.github.com/)
+**[Numpy](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/numpy.md) | [Pandas](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/pandas.md) | [JSON](https://github.com/FazzPy/PythonMaster/blob/main/Belgeler/json.md)** | [SciPy](https://github.com/FazzPy/PythonLib/blob/main/Belgeler/scipy.md)
 
 > Artificial intelligence
 
